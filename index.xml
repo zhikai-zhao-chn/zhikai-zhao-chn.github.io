@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z&amp;L</title>
+    <link>https://zhikai-zhao-chn.github.io/</link>
+    <description>Recent content on Z&amp;L</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jul 2022 09:11:08 +0800</lastBuildDate><atom:link href="https://zhikai-zhao-chn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://zhikai-zhao-chn.github.io/post/test/</link>
+      <pubDate>Tue, 05 Jul 2022 09:11:08 +0800</pubDate>
+      
+      <guid>https://zhikai-zhao-chn.github.io/post/test/</guid>
+      <description>世界名画中的文化与历史</description>
+    </item>
+    
+  </channel>
+</rss>
